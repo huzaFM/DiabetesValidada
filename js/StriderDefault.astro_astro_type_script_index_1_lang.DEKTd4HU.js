@@ -1,0 +1,1 @@
+globalThis.process??={},globalThis.process.env??={};import"./strider.BMyeZY42.js";
